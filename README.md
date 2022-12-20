@@ -19,3 +19,5 @@ Social tagging datasets
 13. <a href="http://www.zubiaga.org/datasets/delicioust140/">DeliciousT140:</a> 144,574 unique URLs, with social tags retrieved from Delicious.
 14. <a href="http://www.zubiaga.org/datasets/wiki10+/">Wiki10+:</a> 20,764 English Wikipedia articles, with social tags retrieved from Delicious.
 15. <a href="http://www.zubiaga.org/datasets/hurricane-sandy-tweets/">Hurricane Sandy tweets:</a> Nearly 15 million tweets posted on Twitter while Hurricane Sandy was hitting the East Coast of the United States, as well as in the aftermath.
+
+#### <a href="http://www.zubiaga.org"> <p align="center">Credit: Arkaitz Zubiaga</p> </a>
