@@ -9,7 +9,7 @@ PHEME dataset of rumours and non-rumours: This dataset contains a collection of 
 4. <a href="http://komunitatea.elhuyar.org/tweetmt/resources/#Downloads">TweetMT: </a>A dataset for machine translation of tweets.
 5. <a href="http://komunitatea.elhuyar.org/tweetlid/resources/#Downloads">TweetLID:</a> A dataset for tweet language identification, which includes 35k tweets with manually annotated language labels.
 6. <a href="http://www.zubiaga.org/datasets/odptweets/">ODPtweets:</a> A large-scale Twitter dataset with nearly 25 million tweets categorized in the structure of the Open Directory Project (ODP).
-7. <a href="http://komunitatea.elhuyar.org/tweet-norm/resources/#Downloads">tweet-norm_es:</a> Tweets in Spanish language, annotated for lexical normalization purposes. Created for the tweet normalization challenge at Tweet-Norm 2013.
+7. <a href="http://komunitatea.elhuyar.org/tweet-norm/resources/#Downloads">tweet-norm_es:</a> Tweets in Spanish language, annotated for lexical normalization purposes. Created for the tweet normalization challenge at <a href="http://komunitatea.elhuyar.org/tweet-norm/">Tweet-Norm 2013</a>.
 8. <a href="http://nlp.uned.es/~damiano/datasets/TT-classification.html">Trending topics:</a> A dataset with 1,036 categorized trending topics, which we used in Real-Time Classification of Twitter Trends
 Social tagging datasets
 9. <a href="https://figshare.com/articles/Twitter_Death_Hoaxes_dataset/5688811">Twitter death hoaxes:</a> This is a dataset of death reports collected from Twitter between 1st January, 2012 and 31st December, 2014. It was collected by tracking the keyword 'RIP', and matching those tweets in which a name is mentioned next to RIP. Matching names were identified by using Wikidata as a database of names.
